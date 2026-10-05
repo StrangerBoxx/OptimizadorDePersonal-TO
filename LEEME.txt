@@ -1,0 +1,9 @@
+Proyecto ELI148 - Avance
+1) pip install "pulp==2.9.0" pandas
+2) python Modelo_Avance_GrupoXX.py
+La carpeta datos/ debe estar junto al archivo .py (CSV descargados de la JAC).
+
+Interfaz web (opcional)
+1) pip install streamlit
+2) Doble clic en Abrir_App.bat  (o: python -m streamlit run app.py)
+   Se abre en el navegador en http://localhost:8501
